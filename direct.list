@@ -1,0 +1,31 @@
+# 安全平台
+DOMAIN-SUFFIX,xueanquan.com
+# luxshare
+DOMAIN-SUFFIX,luxshare-ict.com
+# lilyemby
+DOMAIN,cdn.lilyemby.com
+DOMAIN,www.lilyemby.com
+# magpieemby
+DOMAIN-SUFFIX,023168.xyz
+DOMAIN-SUFFIX,223789.xyz
+# Long
+DOMAIN-SUFFIX,longemby.com
+# fiber
+DOMAIN-SUFFIX,mifon.com
+# 同花顺
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,emoney.cn
+DOMAIN-SUFFIX,touzime.com
+DOMAIN-SUFFIX,hxkba.com
+DOMAIN-SUFFIX,touzime.net
+DOMAIN-SUFFIX,hexin.cn
+DOMAIN-SUFFIX,thsi.cn
+DOMAIN-SUFFIX,hexindai.com
+DOMAIN-SUFFIX,123ths.com
+DOMAIN,api.ipify.org
+# ggy
+DOMAIN-SUFFIX,ggy.net
+DOMAIN-SUFFIX,guguyun.com
+# parallels
+DOMAIN-SUFFIX,parallels.com
