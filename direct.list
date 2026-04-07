@@ -1,13 +1,5 @@
 # 安全平台
 DOMAIN-SUFFIX,xueanquan.com
-# luxshare
-DOMAIN-SUFFIX,luxshare-ict.com
-DOMAIN-SUFFIX,luxshare.com.cn
-# insight
-DOMAIN,manufacturing.apple.com,DIRECT
-DOMAIN,idmsac.apple.com,DIRECT
-# 公司服务器
-DOMAIN,ksfs-bu17-mes.luxshare.com.cn
 # lilyemby
 DOMAIN,cdn.lilyemby.com
 DOMAIN,www.lilyemby.com
